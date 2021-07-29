@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+<p align="center"><img width='150px' src='https://img-premium.flaticon.com/png/512/3071/premium/3071736.png?token=exp=1627559339~hmac=6011c56a92b4df7b2783a40ffa2f5505' />
+<h1 align="center"> Calculator Project </h1>  </p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">GitHub Pages:</h2>
+ 
+ <div align="center">
+   <a href="" target="_blank">
+    <img width='100px' src='https://image.flaticon.com/icons/png/512/5222/5222347.png' target="_blank" />
+ </div>
+ 
+<h5 align="center">Clique na imagem</h5>
 
-## Available Scripts
+## 🧑🏻‍💻👩🏾‍💻Desenvolvido por
 
-In the project directory, you can run:
+@[AdaoBJr](https://github.com/AdaoBJr)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Informações Importantes
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Esse projeto tem como principal importância a utilização do React para a construção da calculadora.
 
-### `npm test`
+# Objetivos do Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Uma versão simplificada, sem persistência no banco de dados, de uma **calculadora**. 
+Nesta aplicação os usuários poderão:
+  - Adicionar valores ao display da calculadora;
+  - Utilizar as operações matemáticas básicas: Somar, Subtrair, Dividir e Multiplicar;
+  - Buscar o resultado da operação matemática escolhida clicando no botão de igual;
+  - E por fim, apagar os valores do display da calculadora.
