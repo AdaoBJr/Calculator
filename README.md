@@ -1,4 +1,4 @@
-<p align="center"><img width='150px' src='https://img-premium.flaticon.com/png/512/3071/premium/3071736.png?token=exp=1627559339~hmac=6011c56a92b4df7b2783a40ffa2f5505' />
+<p align="center"><img width='150px' src='https://github.com/AdaoBJr/Calculator/blob/master/src/work5.png' />
 <h1 align="center"> Calculator Project </h1>  </p>
 
 <h2 align="center">GitHub Pages:</h2>
